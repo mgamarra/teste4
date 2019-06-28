@@ -19,7 +19,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.jboss.quickstarts.eap</groupId>
-    <artifactId>teste2</artifactId>
+    <artifactId>teste3</artifactId>
     <version>6.4.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>JBoss EAP - Tasks JAX-RS App</name>
