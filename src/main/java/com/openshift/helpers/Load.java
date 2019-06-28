@@ -5,6 +5,7 @@ public class Load {
         int numCore = 2;
         int numCore2 = 2;
         int numCore3 = 2;
+        String s3 = "v34"; 
         int numThreadsPerCore = 2;
         double load = 0.8;
         for (int thread = 0; thread < numCore * numThreadsPerCore; thread++) {
