@@ -4,8 +4,8 @@ metadata:
   annotations:
     pipeline.alpha.openshift.io/uses: '[{"name": "tasks", "namespace": "", "kind": "DeploymentConfig"}]'
   labels:
-    name: tasks-pipeline
-  name: tasks-pipeline
+    name: teste-3-pipeline
+  name: teste-3-pipeline
 spec:
   strategy:
     jenkinsPipelineStrategy:
