@@ -3,6 +3,7 @@ package com.openshift.helpers;
 public class Load {
     public void generateLoad(long duration) {
         int numCore = 2;
+        int numCore2 = 2;
         int numThreadsPerCore = 2;
         double load = 0.8;
         for (int thread = 0; thread < numCore * numThreadsPerCore; thread++) {
