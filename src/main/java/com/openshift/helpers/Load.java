@@ -5,9 +5,6 @@ public class Load {
         int numCore = 2;
         int numCore2 = 2;
         int numCore3 = 2;
-        //String s3 = "v3"; 
-        //String s4 = "v4"; 
-        //String s5 = "commit na branch dev"; 
         int numThreadsPerCore = 2;
         double load = 0.8;
         for (int thread = 0; thread < numCore * numThreadsPerCore; thread++) {
